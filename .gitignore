@@ -167,14 +167,12 @@ yarn-error.log*
 .DS_Store
 Thumbs.db
 
-# Compiled JavaScript (if using in src)
+# Compiled JavaScript
 *.js
 *.js.map
 
 # Coverage reports
 coverage/
-
-# Package lock files (opcional, si querés evitar conflictos entre máquinas)
-# package-lock.json
-# yarn.lock
+# carpeta angular
+.angular/
 
